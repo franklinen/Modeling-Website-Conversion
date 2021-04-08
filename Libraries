@@ -1,0 +1,10 @@
+
+#import packages
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+plt.interactive(False)
+import seaborn as sns
+plt.style.use("ggplot")
+%matplotlib inline
+from pylab import rcParams
