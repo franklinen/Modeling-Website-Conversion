@@ -1,4 +1,4 @@
-# Modeling-Website-Conversion-using-Classification-Models
+# Modeling-Website-Conversion
 The project uses google analytics data from a website to predict the probability of conversion to transaction on customer webpage visits.
 
 Contribution to project only by invitation
