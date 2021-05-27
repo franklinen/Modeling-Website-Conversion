@@ -6,17 +6,17 @@ Contribution to project only by invitation
 ## Project Dependencies ##
 
 # Packages
-* Numpy *
-* Pandas *
-* Matplotlib *
-* Seaborn *
-* sklearn.preprocessing *
-* sklearn.model_selection *
+* Numpy 
+* Pandas 
+* Matplotlib 
+* Seaborn 
+* sklearn.preprocessing 
+* sklearn.model_selection 
 
 # Classifiers
-* LogisticRegression *
-* RandomForestClassifier *
+* LogisticRegression 
+* RandomForestClassifier 
 
 # Model Evaluation techniques
-* GridSearchCV *
-* classification_report *
+* GridSearchCV 
+* classification_report 
